@@ -1,0 +1,19 @@
+{
+    "systemProperties": {
+        "placementToolName": "signplacementtool",
+        "canLink": true,
+        "defaultHeight": 0,
+        "signalHeights": {
+            "config(RATYPE.RA11C)": 3
+        }
+    },
+    "seProperties": [
+        {
+            "name": "ralight",
+            "defaultState": false,
+            "changeableStage": "APISTAGE",
+            "autoname": true,
+            "dependencies": "check(RATYPE.RA11C)"
+        }
+    ]
+}
