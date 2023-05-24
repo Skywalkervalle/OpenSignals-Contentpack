@@ -1,7 +1,7 @@
 {
     "textures": {
         "lamp_white": "opensignals:blocks/lamps/lamp_white",
-        "ra11c": "opensignals:blocks/textures/ra11c"
+        "ra11c": "opensignals:texture/blocks/ra11c"
     },
     "models": {
         "ra11c": {
