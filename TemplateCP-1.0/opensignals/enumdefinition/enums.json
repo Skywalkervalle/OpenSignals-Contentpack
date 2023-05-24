@@ -1,0 +1,32 @@
+{
+
+    "RA": [
+        "RA11C"
+    ],
+    "EnumMode": [
+        "MANUELL",
+        "SINGLE",
+        "MUX"
+    ],
+    "EnumState": [
+        "DISABLED",
+        "OFFSTATE",
+        "ONSTATE"
+    ],
+    "SortOptions": [
+        "DISABLED",
+        "NAME_ASSENDING",
+        "NAME_DESCENIDNG",
+        "TYPE_ASSANDING",
+        "TYPE_DESCENDING",
+        "DISTANCE_ASSANDING",
+        "DISTANCE_DSECENDING"
+    ],
+    "ColorWeight": [
+        "WHITE_BLACK",
+        "WHITE_BLACK_W",
+        "YELLOW",
+        "YELLOW_BLACK",
+        "RED_YELLOW"
+    ]
+}
