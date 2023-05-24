@@ -1,0 +1,36 @@
+{
+    "textures": {
+        "lamp_white": "opensignals:blocks/lamps/lamp_white",
+        "ra11c": "opensignals:blocks/ra/ra11c"
+    },
+    "models": {
+        "ra/ra11": {
+            "textures": [
+                {
+                    "blockstate": "with(RATYPE.RA11C)",
+                    "retexture": {
+                        "2": "ra11c"
+                    }
+                }
+            ],
+            "y": 3
+        },
+        "ra/ra11_sh1": {
+            "textures": [
+                {
+                    "blockstate": "hasandisnot(RALIGHT) && (with(RATYPE.RA11C)"
+                },
+                {
+                    "blockstate": "hasandis(RALIGHT) && (with(RATYPE.RA11C)",
+                    "retexture": {
+                        "3": "lamp_white"
+                    }
+                }
+            ],
+            "y": 3
+        }
+        
+        
+    }
+}
+
